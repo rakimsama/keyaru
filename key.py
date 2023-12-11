@@ -1,3 +1,3 @@
-import os
+7import os
 os.system('git pull')
-os.system('python 2.2_enc.py')
+os.system('python 2.3_enc.py')
