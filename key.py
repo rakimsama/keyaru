@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-os.system('python 2.6_enc.py')
+os.system('python 2.7_enc.py')
